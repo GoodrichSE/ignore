@@ -1,16 +1,12 @@
 *.mp4
 *.mov
+
+# Language generated files #
+############################
 cpp/build/
 nodejs/node-modules/
-<<<<<<< HEAD
-
-||||||| merged common ancestors
-nodejs/node-modules/*
 nodejs/node-modules
-
-=======
-nodejs/node-modules/*
->>>>>>> Making the cpp binary output to the browser view instead of just the CLI
+node-modules/
 
 # Compiled source #
 ###################
